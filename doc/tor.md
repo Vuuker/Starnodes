@@ -69,7 +69,7 @@ NumEntryGuards 8
 ```
 
 The directory can be different of course, but (both) port numbers should be equal to
-your starnodesd's P2P listen port (11115 by default).
+your starnodesd's P2P listen port (22115 by default).
 ```
 -externalip=X   You can tell starnodes about its publicly reachable address using
                 this option, and this can be a .onion address. Given the above
@@ -102,7 +102,7 @@ specify:
 ./starnodesd ... -discover
 ```
 
-and open port 11115 on your firewall (or use -upnp).
+and open port 22115 on your firewall (or use -upnp).
 
 If you only want to use Tor to reach onion addresses, but not use it as a proxy
 for normal IPv4/IPv6 communication, use:

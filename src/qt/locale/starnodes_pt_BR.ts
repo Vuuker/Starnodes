@@ -3538,8 +3538,8 @@ https://www.transifex.com/starnodes-project/starnodes-project-translations</tran
         <translation>Você deve especificar uma masternodeprivkey na configuração. Favor verificar o manual para obter ajuda.</translation>
     </message>
     <message>
-        <source>(11115 could be used only on mainnet)</source>
-        <translation>(11115 could be used only on mainnet)</translation>
+        <source>(22115 could be used only on mainnet)</source>
+        <translation>(22115 could be used only on mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3550,8 +3550,8 @@ https://www.transifex.com/starnodes-project/starnodes-project-translations</tran
         <translation>(padrão: 1)</translation>
     </message>
     <message>
-        <source>(must be 11115 for mainnet)</source>
-        <translation>(deve ser 11115 para mainnet)</translation>
+        <source>(must be 22115 for mainnet)</source>
+        <translation>(deve ser 22115 para mainnet)</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
