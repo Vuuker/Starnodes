@@ -19,14 +19,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Starnodes CWF"
-            VALUE "FileDescription",    "Starnodes (CoinWebFactory Release)"
+            VALUE "CompanyName",        "Starnodes"
+            VALUE "FileDescription",    "Starnodes"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "starnodes-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
-            VALUE "LegalTrademarks1",   "Distributed by CoinWebFactory under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
+            VALUE "LegalTrademarks1",   "Distributed by Starnodesteam under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "starnodes-qt.exe"
-            VALUE "ProductName",        "Starnodes CWF"
+            VALUE "ProductName",        "Starnodes"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
